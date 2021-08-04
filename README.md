@@ -13,7 +13,7 @@
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt="igor-Csharp" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="right" class="avatar" alt="igor-groot" height="37%" width="25%"  src="https://media.giphy.com/media/JzujPK0id34qI/giphy.gif">
+  <img align="right" class="avatar" alt="igor-groot" height="27%" width="15%"  src="https://media.giphy.com/media/JzujPK0id34qI/giphy.gif">
 </div>
   
   ##
