@@ -1,8 +1,8 @@
 ## Oi! Eu sou a Igor Guariroba 
  <div>
   <a href="https://github.com/igorguariroba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorguariroba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorguariroba&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorguariroba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorguariroba&layout=compact&langs_count=7&theme=dracula&title_color=blue&border_radius=20"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
