@@ -1,8 +1,8 @@
-## Oi! Eu sou a Igor Guariroba 
+## Hi! I'm Igor
  <div>
   <a href="https://github.com/igorguariroba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorguariroba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=blue&border_radius=20"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorguariroba&layout=compact&langs_count=7&theme=dracula&title_color=blue&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorguariroba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=02bab4&border_radius=20"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorguariroba&layout=compact&langs_count=7&theme=dracula&title_color=02bab4&border_radius=20"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,7 +12,8 @@
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="igor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="igor-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+ <img align="center" alt="igor-Csharp" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="right" class="avatar" alt="igor-groot" height="37%" width="25%"  src="https://media.giphy.com/media/JzujPK0id34qI/giphy.gif">
 </div>
   
   ##
@@ -26,5 +27,12 @@
   <a href="https://www.linkedin.com/in/igor-ravel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+ 
+ ##
+ 
+<div>
+  <img align="left"  src="https://github-readme-stats.vercel.app/api/wakatime?username=igorguariroba&layout=compact&theme=dracula&title_color=02bab4&border_radius=20"/>
+ </div>
+
